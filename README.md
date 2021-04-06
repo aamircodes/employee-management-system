@@ -1,4 +1,3 @@
-# employee-management-system
 Employee Management System CRUD web app using Spring boot, Thymeleaf, Spring Data Jpa, Hibernate, MySQL.
 
 
